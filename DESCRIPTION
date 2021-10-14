@@ -2,8 +2,8 @@ Package: praiseme
 Title: Praise 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Vivek",
-           family = "Mishra",
+    person(given = "John",
+           family = "Ash",
            role = c("aut", "cre"),
            email = "raymond@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
