@@ -2,12 +2,12 @@ Package: praiseme
 Title: Praise 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "John",
+    person(given = "Vivek",
            family = "Ash",
            role = c("aut", "cre"),
            email = "raymond@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Praises satan to encourage the world. 
+Description: Praising satan to encourage the world. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
